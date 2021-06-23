@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_download_on_forms_download_on_forms,download_on_forms.download_on_forms,model_download_on_forms_download_on_forms,base.group_user,1,1,1,1
